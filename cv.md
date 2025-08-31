@@ -1,17 +1,20 @@
 # Tatiana Sambueva
 
-**_Front-End Developer_**\
+**_Front-End Developer_**
 
 ## Contact information:
 
 **Phone:** +37256893551
+
 **E-mail:** tatiana.sambueva@gmail.com
+
 **Telegram:** @tatianake
-[LinkedIn Profile](https://www.linkedin.com/in/tatiana-sambueva/)\
+
+[LinkedIn Profile](https://www.linkedin.com/in/tatiana-sambueva/)
 
 ## About Me:
 
-I am transitioning from the legal field to IT development. I have strong communication skills, a growth mindset, and a passion for learning new technologies. I am eager to build practical experience in software development and contribute to meaningful projects. My favorite programming language is JavaScript :heart:\
+I am transitioning from the legal field to IT development. I have strong communication skills, a growth mindset, and a passion for learning new technologies. I am eager to build practical experience in software development and contribute to meaningful projects. My favorite programming language is JavaScript :heart:
 
 ## Skills:
 
@@ -43,8 +46,8 @@ function greet(name) {
 
 ## Courses:
 
-1. Rolling Scopes, JavaScript — :arrows_counterclockwise: _in progress_
-2. WoTech program, Java and Python — :white_check_mark: _completed, 2024_
+1. Rolling Scopes, JavaScript — :arrows*counterclockwise: \_in progress*
+2. WoTech program, Java and Python — :white*check_mark: \_completed, 2024*
 
 ## Languages:
 
