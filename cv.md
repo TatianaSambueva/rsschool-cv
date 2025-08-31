@@ -41,13 +41,12 @@ I am transitioning from the legal field to IT development. I have strong communi
 function greet(name) {
   console.log(`Hello, ${name}! Welcome to my CV.`);
 }
-
 ```
 
 ## Courses:
 
-1. Rolling Scopes, JavaScript — :arrows*counterclockwise: \_in progress*
-2. WoTech program, Java and Python — :white*check_mark: \_completed, 2024*
+1. Rolling Scopes, JavaScript — _in progress_
+2. WoTech program, Java and Python — _completed, 2024_
 
 ## Languages:
 
