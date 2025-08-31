@@ -14,11 +14,11 @@
 
 ## About Me:
 
-I am transitioning from the legal field to IT development. I have strong communication skills, a growth mindset, and a passion for learning new technologies. I am eager to build practical experience in software development and contribute to meaningful projects. My favorite programming language is JavaScript :heart:
+I am transitioning from the legal field to IT development. I have strong communication skills, a growth mindset, and a passion for learning new technologies. I am eager to build practical experience in software development and contribute to meaningful projects. My favorite programming language is JavaScript ❤️
 
 ## Skills:
 
-### Programming Languages
+## Programming Languages
 
 - HTML, CSS, JavaScript, Java, Python
 
